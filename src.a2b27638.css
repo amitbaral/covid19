@@ -1,0 +1,59 @@
+body {
+  background: #212529;
+}
+
+.red-icon {
+  background: rgba(253, 65, 60, 0.1);
+}
+
+.light_grey {
+  background: #272b2f;
+}
+
+.red {
+  color: #fd413c;
+}
+
+.red-bg {
+  background: #fd413c;
+  color: white;
+}
+
+.yellow {
+  color: #febc2c;
+}
+
+.yellow-bg {
+  background: #febc2c;
+  color: black;
+}
+
+.green {
+  color: #1caa53;
+}
+
+.select_style {
+  background: #2d3136;
+  border: 1px solid #292828;
+  color: #fff;
+  cursor: pointer;
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.select_style:hover {
+  box-shadow: 0 1px 13px 0px #fd413c, 0 1px 2px 0 #fd413c;
+  border: 1px solid #292828;
+}
+
+.hoverEffect {
+  border: 1px solid #292828;
+  cursor: pointer;
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.hoverEffect:hover {
+  box-shadow: 0 1px 13px 0px #fd413c, 0 1px 2px 0 #fd413c;
+  border: 1px solid #292828;
+}
+
+/*# sourceMappingURL=/src.a2b27638.css.map */
